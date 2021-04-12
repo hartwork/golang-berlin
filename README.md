@@ -34,6 +34,13 @@ Something is missing?  Create a pull request!
         [github](https://github.com/i2x-gmbh)
         ,
         [jobs](https://i2x.jobs.personio.de/?language=en)
+* __M__
+    * [McMakler GmbH](https://www.mcmakler.de/) —
+        [proof](https://www.smartrecruiters.com/McMaklerGmbH1/743999740474884-team-lead-backend-golang-all-genders-)
+        ,
+        [github](https://github.com/mcmakler)
+        ,
+        [jobs](https://www.mcmakler.de/karriere)
 * __S__
     * [SysEleven GmbH](https://www.syseleven.de/) —
         [proof](https://www.syseleven.de/karriere/golang-kubernetes-developer/)
