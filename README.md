@@ -59,6 +59,13 @@ Something is missing?  Create a pull request!
         [proof](https://nfon.jobs.personio.de/job/172749)
         ,
         [jobs](https://nfon.jobs.personio.de/)
+* __P__
+    * [Programmfabrik GmbH](https://www.programmfabrik.de/) —
+        [proof](https://www.programmfabrik.de/software-jobs/backend-developer-go/)
+        ,
+        [github](https://github.com/programmfabrik)
+        ,
+        [jobs](https://www.programmfabrik.de/software-jobs/)
 * __S__
     * [Solarisbank AG](https://www.solarisbank.com/) —
         [proof](https://boards.greenhouse.io/solarisbank/jobs/4904420002)
