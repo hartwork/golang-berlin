@@ -49,6 +49,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.mcmakler.de/karriere)
 * __S__
+    * [SumUp Limited](https://sumup.de/) —
+        [proof](https://sumup.com/careers/positions/berlin-germany/backend/senior-backend-engineer-go-merchant-success/4677640002/)
+        ,
+        [github](https://github.com/sumup)
+        ,
+        [jobs](https://sumup.com/careers/)
     * [SysEleven GmbH](https://www.syseleven.de/) —
         [proof](https://www.syseleven.de/karriere/golang-kubernetes-developer/)
         ,
