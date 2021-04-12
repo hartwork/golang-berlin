@@ -103,6 +103,11 @@ Something is missing?  Create a pull request!
         [github](https://github.com/programmfabrik)
         ,
         [jobs](https://www.programmfabrik.de/software-jobs/)
+* __R__
+    * [Recare Deutschland GmbH](https://recaresolutions.com/) —
+        [proof](https://careers.recaresolutions.com/o/backend-engineer-go)
+        ,
+        [jobs](https://careers.recaresolutions.com/)
 * __S__
     * [Simplesurance GmbH](https://www.simplesurance.com/) —
         [proof](https://simplesurance.join.com/jobs/2082629-broker-golang-software-engineer-f-m-d)
