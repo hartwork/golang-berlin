@@ -15,6 +15,13 @@ Something is missing?  Create a pull request!
 
 # Companies
 
+* __D__
+    * [Delivery Hero SE](https://www.deliveryhero.com/) —
+        [proof](https://careers.deliveryhero.com/global/en/job/JR0008002/Principal-Golang-Engineer-Vendor-Tech-f-m-d)
+        ,
+        [github](https://github.com/deliveryhero)
+        ,
+        [jobs](https://careers.deliveryhero.com/global/en/search-results?keywords=golang)
 * __F__
     * [​​Flink Lebensmittel GmbH](https://www.goflink.com/) —
         [proof](https://www.linkedin.com/jobs/view/2465757810)
