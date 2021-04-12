@@ -66,6 +66,13 @@ Something is missing?  Create a pull request!
         [proof](https://nfon.jobs.personio.de/job/172749)
         ,
         [jobs](https://nfon.jobs.personio.de/)
+* __O__
+    * [OptioPay GmbH](https://www.optiopay.com/) —
+        [proof](https://optiopay.recruitee.com/o/backend-golang-engineer-mfx)
+        ,
+        [github](https://github.com/optiopay)
+        ,
+        [jobs](https://www.optiopay.com/de/jobs)
 * __P__
     * [Programmfabrik GmbH](https://www.programmfabrik.de/) —
         [proof](https://www.programmfabrik.de/software-jobs/backend-developer-go/)
