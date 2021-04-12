@@ -39,6 +39,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://boards.greenhouse.io/codility)
 * __D__
+    * [DCMN GmbH](https://www.dcmn.com/) —
+        [proof](https://careers.dcmn.com/jobs/1097093-javascript-developer-m-f-d)
+        ,
+        [github](https://github.com/dcmn-com)
+        ,
+        [jobs](https://careers.dcmn.com/jobs)
     * [Delivery Hero SE](https://www.deliveryhero.com/) —
         [proof](https://careers.deliveryhero.com/global/en/job/JR0008002/Principal-Golang-Engineer-Vendor-Tech-f-m-d)
         ,
