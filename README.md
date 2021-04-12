@@ -48,6 +48,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/mcmakler)
         ,
         [jobs](https://www.mcmakler.de/karriere)
+    * [momox GmbH](https://momox.biz/) —
+        [proof](https://momox-jobs.dvinci.de/en/jobs/10479/senior-software-engineer-golang-solr-elasticsearch-search-mfd)
+        ,
+        [github](https://github.com/Momox-GmbH)
+        ,
+        [jobs](https://momox.biz/karriere/berlin)
 * __S__
     * [Solarisbank AG](https://www.solarisbank.com/) —
         [proof](https://boards.greenhouse.io/solarisbank/jobs/4904420002)
