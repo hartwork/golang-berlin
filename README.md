@@ -20,6 +20,12 @@ Something is missing?  Create a pull request!
         [proof](https://golang.cafe/job/senior-software-engineer-back-1587996448)
         ,
         [jobs](https://www.notion.so/Working-at-Back-f23a617a97a24b83a6e85e826f475615)
+    * [Bitwala GmbH](https://www.bitwala.com/) —
+        [proof](https://tarta.ai/j/gn8xrncBrJRKg1c1N7gf-senior-software-engineer-platform-golang-in-berlin-berlin-at-bitwala)
+        ,
+        [github](https://github.com/bitwala)
+        ,
+        [jobs](https://www.bitwala.com/de/careers/)
 * __D__
     * [Delivery Hero SE](https://www.deliveryhero.com/) —
         [proof](https://careers.deliveryhero.com/global/en/job/JR0008002/Principal-Golang-Engineer-Vendor-Tech-f-m-d)
