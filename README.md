@@ -99,6 +99,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.programmfabrik.de/software-jobs/)
 * __S__
+    * [Simplesurance GmbH](https://www.simplesurance.com/) —
+        [proof](https://simplesurance.join.com/jobs/2082629-broker-golang-software-engineer-f-m-d)
+        ,
+        [github](https://github.com/simplesurance)
+        ,
+        [jobs](https://simplesurance.join.com/)
     * [Solarisbank AG](https://www.solarisbank.com/) —
         [proof](https://boards.greenhouse.io/solarisbank/jobs/4904420002)
         ,
