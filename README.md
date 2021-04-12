@@ -15,6 +15,11 @@ Something is missing?  Create a pull request!
 
 # Companies
 
+* __A__
+    * [Amie GmbH](https://amie.so/) —
+        [proof](https://berlinstartupjobs.com/de/engineering/backend-full-stack-engineer-go-amie/)
+        ,
+        [jobs](https://amie.so/#work-with-us)
 * __B__
     * [Back Technologies GmbH](https://backhq.com/) —
         [proof](https://golang.cafe/job/senior-software-engineer-back-1587996448)
