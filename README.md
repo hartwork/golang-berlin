@@ -26,6 +26,13 @@ Something is missing?  Create a pull request!
         [github](https://github.com/bitwala)
         ,
         [jobs](https://www.bitwala.com/de/careers/)
+* __C__
+    * [Codility Ltd.](https://www.codility.com/) —
+        [proof](https://boards.greenhouse.io/codility/jobs/4371050003)
+        ,
+        [github](https://github.com/Codility)
+        ,
+        [jobs](https://boards.greenhouse.io/codility)
 * __D__
     * [Delivery Hero SE](https://www.deliveryhero.com/) —
         [proof](https://careers.deliveryhero.com/global/en/job/JR0008002/Principal-Golang-Engineer-Vendor-Tech-f-m-d)
