@@ -20,6 +20,13 @@ Something is missing?  Create a pull request!
         [proof](https://www.linkedin.com/jobs/view/2465757810)
         ,
         [jobs](https://careers.smartrecruiters.com/Flink3/joinus)
+* __I__
+    * [i2x GmbH](https://i2x.ai/) —
+        [proof](https://www.moberries.com/job/1964808)
+        ,
+        [github](https://github.com/i2x-gmbh)
+        ,
+        [jobs](https://i2x.jobs.personio.de/?language=en)
 * __S__
     * [SysEleven GmbH](https://www.syseleven.de/) —
         [proof](https://www.syseleven.de/karriere/golang-kubernetes-developer/)
