@@ -71,6 +71,13 @@ Something is missing?  Create a pull request!
         [github](https://github.com/i2x-gmbh)
         ,
         [jobs](https://i2x.jobs.personio.de/?language=en)
+* __L__
+    * [Loopline Systems GmbH](https://www.loopline-systems.com/) —
+        [proof](https://berlinstartupjobs.com/de/engineering/fullstack-developer-go-typescript-php-m-f-d-loopline-systems/)
+        ,
+        [github](https://github.com/loopline-systems)
+        ,
+        [jobs](https://www.loopline-systems.com/en/about/careers)
 * __M__
     * [McMakler GmbH](https://www.mcmakler.de/) —
         [proof](https://www.smartrecruiters.com/McMaklerGmbH1/743999740474884-team-lead-backend-golang-all-genders-)
