@@ -15,6 +15,11 @@ Something is missing?  Create a pull request!
 
 # Companies
 
+* __B__
+    * [Back Technologies GmbH](https://backhq.com/) —
+        [proof](https://golang.cafe/job/senior-software-engineer-back-1587996448)
+        ,
+        [jobs](https://www.notion.so/Working-at-Back-f23a617a97a24b83a6e85e826f475615)
 * __D__
     * [Delivery Hero SE](https://www.deliveryhero.com/) —
         [proof](https://careers.deliveryhero.com/global/en/job/JR0008002/Principal-Golang-Engineer-Vendor-Tech-f-m-d)
