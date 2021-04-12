@@ -78,6 +78,13 @@ Something is missing?  Create a pull request!
         [github](https://github.com/syseleven)
         ,
         [jobs](https://www.syseleven.de/karriere/ueberblick/)
+* __Z__
+    * [Zalando SE](https://en.zalando.de/) —
+        [proof](https://jobs.zalando.com/en/jobs/2333968-senior-golang-engineer-markets-sales-go-w-m-d/)
+        ,
+        [github](https://github.com/zalando)
+        ,
+        [jobs](https://jobs.zalando.com/en/jobs/?search=golang)
 
 Like this list?  Support it with a star!
 
