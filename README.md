@@ -140,6 +140,11 @@ Something is missing?  Create a pull request!
         [github](https://github.com/syseleven)
         ,
         [jobs](https://www.syseleven.de/karriere/ueberblick/)
+* __Y__
+    * [Yptokey GmbH](https://yptokey.com/) —
+        [proof](https://www.careerjet.de/jobad/de8bb414fb5b031fbcfb437b9f895ad980)
+        ,
+        [jobs](https://yptokey.join.com/)
 * __Z__
     * [Zalando SE](https://en.zalando.de/) —
         [proof](https://jobs.zalando.com/en/jobs/2333968-senior-golang-engineer-markets-sales-go-w-m-d/)
