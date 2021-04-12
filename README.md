@@ -49,6 +49,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.mcmakler.de/karriere)
 * __S__
+    * [Solarisbank AG](https://www.solarisbank.com/) —
+        [proof](https://boards.greenhouse.io/solarisbank/jobs/4904420002)
+        ,
+        [github](https://github.com/solarisBank)
+        ,
+        [jobs](https://www.solarisbank.com/de/careers/)
     * [SumUp Limited](https://sumup.de/) —
         [proof](https://sumup.com/careers/positions/berlin-germany/backend/senior-backend-engineer-go-merchant-success/4677640002/)
         ,
