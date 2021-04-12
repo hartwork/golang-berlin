@@ -27,6 +27,13 @@ Something is missing?  Create a pull request!
         [proof](https://www.linkedin.com/jobs/view/2465757810)
         ,
         [jobs](https://careers.smartrecruiters.com/Flink3/joinus)
+* __H__
+    * [HelloFresh Deutschland SE & Co. KG](https://www.hellofresh.de/) —
+        [proof](https://www.hellofresh.de/careers/listings/67628?country=de)
+        ,
+        [github](https://github.com/hellofresh)
+        ,
+        [jobs](https://www.hellofresh.de/careers/)
 * __I__
     * [i2x GmbH](https://i2x.ai/) —
         [proof](https://www.moberries.com/job/1964808)
