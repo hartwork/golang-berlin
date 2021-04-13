@@ -104,6 +104,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/mcmakler)
         ,
         [jobs](https://www.mcmakler.de/karriere)
+    * [Miss Moneypenny Technologies GmbH](https://www.missmp.eu/) —
+        [proof](https://missmp.join.com/jobs/2081737-software-engineer-f-m-d-mobile-wallet-and-automation-saas)
+        ,
+        [github](https://github.com/missmp)
+        ,
+        [jobs](https://www.missmp.eu/work-with-us)
     * [momox GmbH](https://momox.biz/) —
         [proof](https://momox-jobs.dvinci.de/en/jobs/10479/senior-software-engineer-golang-solr-elasticsearch-search-mfd)
         ,
