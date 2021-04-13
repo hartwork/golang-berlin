@@ -70,6 +70,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/ecosia)
         ,
         [jobs](https://jobs.lever.co/ecosia)
+    * [EDB](https://www.enterprisedb.com/) —
+        [proof](https://www.enterprisedb.com/careers/job-openings?gh_jid=4454909003)
+        ,
+        [github](https://github.com/EnterpriseDB)
+        ,
+        [jobs](https://www.enterprisedb.com/careers)
     * [everphone GmbH](https://www.everphone.de/) —
         [proof](https://boards.greenhouse.io/everphone/jobs/4209158003)
         ,
