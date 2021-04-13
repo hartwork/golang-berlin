@@ -95,6 +95,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/i2x-gmbh)
         ,
         [jobs](https://i2x.jobs.personio.de/?language=en)
+    * [iconmobile GmbH](https://iconmobile.com/) —
+        [proof](https://iconmobile-gmbh.jobs.personio.de/job/169789)
+        ,
+        [github](https://github.com/icmus)
+        ,
+        [jobs](https://iconmobile.com/join-us-2/)
 * __J__
     * [JustWatch GmbH](https://www.justwatch.com/) —
         [proof](https://jobs.lever.co/justwatch/ddca7a29-1edd-4e41-b461-9e19571bdbfd)
