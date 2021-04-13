@@ -64,6 +64,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://careers.deliveryhero.com/global/en/search-results?keywords=golang)
 * __E__
+    * [Ecosia GmbH](https://www.ecosia.org/) —
+        [proof](https://jobs.lever.co/ecosia/fea72873-ea85-475c-9b64-7b9f4b1dfdf3)
+        ,
+        [github](https://github.com/ecosia)
+        ,
+        [jobs](https://jobs.lever.co/ecosia)
     * [everphone GmbH](https://www.everphone.de/) —
         [proof](https://boards.greenhouse.io/everphone/jobs/4209158003)
         ,
