@@ -116,6 +116,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://nfon.jobs.personio.de/)
 * __O__
+    * [Opinary GmbH](https://opinary.com/) —
+        [proof](https://www.f6s.com/jobs/35501/opinary/golang-backend-engineer-berlin)
+        ,
+        [github](https://github.com/opinary)
+        ,
+        [jobs](https://opinary.com/careers/)
     * [OptioPay GmbH](https://www.optiopay.com/) —
         [proof](https://optiopay.recruitee.com/o/backend-golang-engineer-mfx)
         ,
