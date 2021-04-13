@@ -88,6 +88,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://careers.smartrecruiters.com/Flink3/joinus)
 * __G__
+    * [Glassnode AG](https://glassnode.com/) —
+        [proof](https://glassnode.com/careers/backend-engineer)
+        ,
+        [github](https://github.com/glassnode)
+        ,
+        [jobs](https://glassnode.com/careers)
     * [GraphCMS GmbH](https://graphcms.com/) —
         [proof](https://graphcms.recruitee.com/o/senior-golang-backend-engineer-mfd-in-berlin-fully-remote)
         ,
