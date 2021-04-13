@@ -153,6 +153,11 @@ Something is missing?  Create a pull request!
         [github](https://github.com/syseleven)
         ,
         [jobs](https://www.syseleven.de/karriere/ueberblick/)
+* __W__
+    * [Wavy GmbH](https://wavysys.com/) —
+        [proof](https://wavysys.com/backend-developer-m-f-d/)
+        ,
+        [jobs](https://wavysys.com/careers/)
 * __Y__
     * [Yptokey GmbH](https://yptokey.com/) —
         [proof](https://www.careerjet.de/jobad/de8bb414fb5b031fbcfb437b9f895ad980)
