@@ -20,6 +20,12 @@ Something is missing?  Create a pull request!
         [proof](https://berlinstartupjobs.com/de/engineering/backend-full-stack-engineer-go-amie/)
         ,
         [jobs](https://amie.so/#work-with-us)
+    * [Axel Springer SE](https://www.axelspringer.com/) —
+        [proof](https://career.axelspringer.com/de/tech)
+        ,
+        [github](https://github.com/axelspringer)
+        ,
+        [jobs](https://career.axelspringer.com/)
 * __B__
     * [Back Technologies GmbH](https://backhq.com/) —
         [proof](https://golang.cafe/job/senior-software-engineer-back-1587996448)
