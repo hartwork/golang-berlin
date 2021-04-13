@@ -153,6 +153,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.optiopay.com/de/jobs)
 * __P__
+    * [Products Up GmbH](https://www.productsup.com/) —
+        [proof](https://www.productsup.com/careers/?gh_jid=4803581002)
+        ,
+        [github](https://github.com/productsupcom)
+        ,
+        [jobs](https://www.productsup.com/de/karriere/)
     * [Programmfabrik GmbH](https://www.programmfabrik.de/) —
         [proof](https://www.programmfabrik.de/software-jobs/backend-developer-go/)
         ,
