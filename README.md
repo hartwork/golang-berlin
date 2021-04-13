@@ -70,6 +70,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/hellofresh)
         ,
         [jobs](https://www.hellofresh.de/careers/)
+    * [Herdius GmbH](https://www.herdius.com/) —
+        [proof](https://angel.co/company/herdius/jobs/751086-software-engineer-fullstack-go-react-js-solidity)
+        ,
+        [github](https://github.com/herdius)
+        ,
+        [jobs](https://angel.co/company/herdius)
 * __I__
     * [i2x GmbH](https://i2x.ai/) —
         [proof](https://www.moberries.com/job/1964808)
