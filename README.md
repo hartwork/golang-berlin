@@ -77,6 +77,13 @@ Something is missing?  Create a pull request!
         [github](https://github.com/i2x-gmbh)
         ,
         [jobs](https://i2x.jobs.personio.de/?language=en)
+* __J__
+    * [JustWatch GmbH](https://www.justwatch.com/) —
+        [proof](https://jobs.lever.co/justwatch/ddca7a29-1edd-4e41-b461-9e19571bdbfd)
+        ,
+        [github](https://github.com/justwatchcom)
+        ,
+        [jobs](https://jobs.lever.co/justwatch)
 * __L__
     * [Loopline Systems GmbH](https://www.loopline-systems.com/) —
         [proof](https://berlinstartupjobs.com/de/engineering/fullstack-developer-go-typescript-php-m-f-d-loopline-systems/)
