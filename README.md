@@ -214,6 +214,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/talon-one)
         ,
         [jobs](https://www.talon.one/jobs)
+    * [tarent solutions GmbH](https://www.tarent.de/) —
+        [proof](https://www.tarent.de/jobs/senior-fullstack-developer-m-w-d)
+        ,
+        [github](https://github.com/tarent)
+        ,
+        [jobs](https://www.tarent.de/jobangebote)
 * __W__
     * [Wavy GmbH](https://wavysys.com/) —
         [proof](https://wavysys.com/backend-developer-m-f-d/)
