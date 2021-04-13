@@ -25,6 +25,12 @@ Something is missing?  Create a pull request!
         [proof](https://golang.cafe/job/senior-software-engineer-back-1587996448)
         ,
         [jobs](https://www.notion.so/Working-at-Back-f23a617a97a24b83a6e85e826f475615)
+    * [Binance Deutschland GmbH & Co. KG](https://www.binance.com/) —
+        [proof](https://jobs.lever.co/binance/de475e9b-1fd9-442c-8745-9d87ce6a2f27)
+        ,
+        [github](https://github.com/binance-exchange)
+        ,
+        [jobs](https://www.binance.com/de/career)
     * [Bitwala GmbH](https://www.bitwala.com/) —
         [proof](https://tarta.ai/j/gn8xrncBrJRKg1c1N7gf-senior-software-engineer-platform-golang-in-berlin-berlin-at-bitwala)
         ,
