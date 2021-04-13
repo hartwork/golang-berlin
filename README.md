@@ -171,6 +171,13 @@ Something is missing?  Create a pull request!
         [github](https://github.com/syseleven)
         ,
         [jobs](https://www.syseleven.de/karriere/ueberblick/)
+* __T__
+    * [Talon.One GmbH](https://www.talon.one/) —
+        [proof](https://talonone.bamboohr.com/jobs/view.php?id=40)
+        ,
+        [github](https://github.com/talon-one)
+        ,
+        [jobs](https://www.talon.one/jobs)
 * __W__
     * [Wavy GmbH](https://wavysys.com/) —
         [proof](https://wavysys.com/backend-developer-m-f-d/)
