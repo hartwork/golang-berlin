@@ -134,6 +134,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://jobs.lever.co/justwatch)
 * __L__
+    * [LivingPackets SA](https://livingpackets.com/) —
+        [proof](https://livingpackets.jobs.personio.de/job/226859)
+        ,
+        [github](https://github.com/livingpackets)
+        ,
+        [jobs](https://livingpackets.com/jobs)
     * [Loopline Systems GmbH](https://www.loopline-systems.com/) —
         [proof](https://berlinstartupjobs.com/de/engineering/fullstack-developer-go-typescript-php-m-f-d-loopline-systems/)
         ,
