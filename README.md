@@ -82,6 +82,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/herdius)
         ,
         [jobs](https://angel.co/company/herdius)
+    * [home24 SE](https://www.home24.de/) —
+        [proof](https://home24.softgarden.io/job/9668337/Golang-Software-Engineer-webdev-m-f-d-/)
+        ,
+        [github](https://github.com/Home24)
+        ,
+        [jobs](https://home24.career.softgarden.de/)
 * __I__
     * [i2x GmbH](https://i2x.ai/) —
         [proof](https://www.moberries.com/job/1964808)
