@@ -182,6 +182,12 @@ Something is missing?  Create a pull request!
         [proof](https://careers.recaresolutions.com/o/backend-engineer-go)
         ,
         [jobs](https://careers.recaresolutions.com/)
+    * [remerge GmbH](https://www.remerge.io/) —
+        [proof](https://www.remerge.io/careers/4452875003)
+        ,
+        [github](https://github.com/remerge)
+        ,
+        [jobs](https://www.remerge.io/careers)
 * __S__
     * [Simplesurance GmbH](https://www.simplesurance.com/) —
         [proof](https://simplesurance.join.com/jobs/2082629-broker-golang-software-engineer-f-m-d)
