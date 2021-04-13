@@ -245,6 +245,13 @@ Something is missing?  Create a pull request!
         [github](https://github.com/tarent)
         ,
         [jobs](https://www.tarent.de/jobangebote)
+* __U__
+    * [Upvest GmbH](https://upvest.co/) —
+        [proof](https://upvestco.recruitee.com/o/backend-engineer-fmd)
+        ,
+        [github](https://github.com/upvestco)
+        ,
+        [jobs](https://upvestco.recruitee.com/)
 * __W__
     * [Wavy GmbH](https://wavysys.com/) —
         [proof](https://wavysys.com/backend-developer-m-f-d/)
