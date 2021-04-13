@@ -88,6 +88,8 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://careers.smartrecruiters.com/Flink3/joinus)
 * __G__
+    * [Gamomat Distribution GmbH](https://www.gamomat.com/) —
+        [proof](https://de.indeed.com/viewjob?jk=75059965b900205f)
     * [Glassnode AG](https://glassnode.com/) —
         [proof](https://glassnode.com/careers/backend-engineer)
         ,
