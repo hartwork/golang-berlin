@@ -173,6 +173,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/missmp)
         ,
         [jobs](https://www.missmp.eu/work-with-us)
+    * [MOIA GmbH](https://www.moia.io/) —
+        [proof](https://de.indeed.com/Zeige-Job?jk=bb5b790fbaf4fdcc)
+        ,
+        [github](https://github.com/moia-dev)
+        ,
+        [jobs](https://www.moia.io/de-DE/jobs/information-technology/berlin)
     * [momox GmbH](https://momox.biz/) —
         [proof](https://momox-jobs.dvinci.de/en/jobs/10479/senior-software-engineer-golang-solr-elasticsearch-search-mfd)
         ,
