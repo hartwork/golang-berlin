@@ -145,6 +145,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://iconmobile.com/join-us-2/)
 * __J__
+    * [Jodel Venture GmbH](https://jodel.com/) —
+        [proof](https://jodel.jobs.personio.de/job/210170)
+        ,
+        [jobs](https://careers.jodel.com/)
     * [JustWatch GmbH](https://www.justwatch.com/) —
         [proof](https://jobs.lever.co/justwatch/ddca7a29-1edd-4e41-b461-9e19571bdbfd)
         ,
