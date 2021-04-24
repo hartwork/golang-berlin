@@ -208,6 +208,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.optiopay.com/de/jobs)
 * __P__
+    * [POSpulse GmbH](https://www.pospulse.com/) —
+        [proof](https://pospulse-gmbh.jobs.personio.de/job/306594)
+        ,
+        [jobs](https://www.pospulse.com/karriere)
     * [Products Up GmbH](https://www.productsup.com/) —
         [proof](https://www.productsup.com/careers/?gh_jid=4803581002)
         ,
