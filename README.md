@@ -161,6 +161,13 @@ Something is missing?  Create a pull request!
         [github](https://github.com/justwatchcom)
         ,
         [jobs](https://jobs.lever.co/justwatch)
+* __K__
+    * [KIProtect GmbH](https://kiprotect.com/) —
+        [proof](https://kiprotect.com/company/career/senior-backend-developer)
+        ,
+        [github](https://github.com/kiprotect)
+        ,
+        [jobs](https://kiprotect.com/company/career)
 * __L__
     * [LivingPackets SA](https://livingpackets.com/) —
         [proof](https://livingpackets.jobs.personio.de/job/226859)
