@@ -16,6 +16,12 @@ Something is missing?  Create a pull request!
 # Companies
 
 * __A__
+    * [Acronis International GmbH](https://www.acronis.com/) —
+        [proof](https://boards.greenhouse.io/acronis/jobs/5202962002)
+        ,
+        [github](https://github.com/acronis)
+        ,
+        [jobs](https://www.acronis.com/de-de/careers/#positions)
     * [Amie GmbH](https://amie.so/) —
         [proof](https://berlinstartupjobs.com/de/engineering/backend-full-stack-engineer-go-amie/)
         ,
