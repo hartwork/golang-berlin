@@ -188,6 +188,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/mcmakler)
         ,
         [jobs](https://www.mcmakler.de/karriere)
+    * [Meltwater Deutschland GmbH](https://www.meltwater.com/de) —
+        [proof](https://www.meltwater.com/en/about/careers/backend-software-engineer-content-platform-67451)
+        ,
+        [github](https://github.com/meltwater)
+        ,
+        [jobs](https://careers.meltwater.com/)
     * [Miss Moneypenny Technologies GmbH](https://www.missmp.eu/) —
         [proof](https://missmp.join.com/jobs/2081737-software-engineer-f-m-d-mobile-wallet-and-automation-saas)
         ,
