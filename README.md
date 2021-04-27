@@ -315,6 +315,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://wavysys.com/careers/)
 * __Y__
+    * [Yara GmbH & Co. KG](https://www.yara.de/) —
+        [proof](https://jobs.yara.com/job/Berlin-Senior-Software-Engineer-Cloud-Platform-%28fmd%29-BE/659947301/)
+        ,
+        [jobs](https://jobs.yara.com/)
     * [Yptokey GmbH](https://yptokey.com/) —
         [proof](https://www.careerjet.de/jobad/de8bb414fb5b031fbcfb437b9f895ad980)
         ,
