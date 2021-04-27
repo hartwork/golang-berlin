@@ -199,6 +199,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://nfon.jobs.personio.de/)
 * __O__
+    * [Onefootball GmbH](https://onefootball.com/) —
+        [proof](https://company.onefootball.com/jobs/engineering-lead-news/)
+        ,
+        [github](https://github.com/Onefootball)
+        ,
+        [jobs](https://company.onefootball.com/careers)
     * [Opinary GmbH](https://opinary.com/) —
         [proof](https://www.f6s.com/jobs/35501/opinary/golang-backend-engineer-berlin)
         ,
