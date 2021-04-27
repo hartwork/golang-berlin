@@ -125,6 +125,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/herdius)
         ,
         [jobs](https://angel.co/company/herdius)
+    * [Holoplot GmbH](https://holoplot.com/) —
+        [proof](https://holoplot.jobs.personio.de/job/360309)
+        ,
+        [github](https://github.com/holoplot)
+        ,
+        [jobs](https://holoplot.jobs.personio.de/)
     * [home24 SE](https://www.home24.de/) —
         [proof](https://home24.softgarden.io/job/9668337/Golang-Software-Engineer-webdev-m-f-d-/)
         ,
