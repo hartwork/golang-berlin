@@ -308,6 +308,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/tarent)
         ,
         [jobs](https://www.tarent.de/jobangebote)
+    * [Trade Republic Bank GmbH](https://traderepublic.com/) —
+        [proof](https://traderepublic.com/careers/4476340003)
+        ,
+        [github](https://github.com/traderepublic)
+        ,
+        [jobs](https://traderepublic.com/careers)
 * __U__
     * [UpSellGuru GmbH](https://www.upsellguru.com/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=520056187506f4da)
