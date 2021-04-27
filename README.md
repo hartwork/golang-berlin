@@ -290,6 +290,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.tarent.de/jobangebote)
 * __U__
+    * [UpSellGuru GmbH](https://www.upsellguru.com/) —
+        [proof](https://de.indeed.com/Zeige-Job?jk=520056187506f4da)
+        ,
+        [github](https://github.com/UpsellGuru)
+        ,
+        [jobs](https://www.upsellguru.com/partnership/)
     * [Upvest GmbH](https://upvest.co/) —
         [proof](https://upvestco.recruitee.com/o/backend-engineer-fmd)
         ,
