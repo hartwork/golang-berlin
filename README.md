@@ -331,6 +331,11 @@ Something is missing?  Create a pull request!
         [github](https://github.com/upvestco)
         ,
         [jobs](https://upvestco.recruitee.com/)
+* __V__
+    * [Vanilla Steel GmbH](https://www.vanillasteel.com/) —
+        [proof](https://vanillasteel.join.com/jobs/2385959-back-end-stack-developer-start-q3-2021)
+        ,
+        [jobs](https://vanillasteel.join.com/)
 * __W__
     * [Wavy GmbH](https://wavysys.com/) —
         [proof](https://wavysys.com/backend-developer-m-f-d/)
