@@ -194,6 +194,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/mcmakler)
         ,
         [jobs](https://www.mcmakler.de/karriere)
+    * [Meisterwerk App GmbH](https://www.meisterwerk.app/) —
+        [proof](https://meisterwerk.recruitee.com/o/senior-backend-engineer)
+        ,
+        [jobs](https://meisterwerk.recruitee.com/)
     * [Meltwater Deutschland GmbH](https://www.meltwater.com/de) —
         [proof](https://www.meltwater.com/en/about/careers/backend-software-engineer-content-platform-67451)
         ,
